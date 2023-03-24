@@ -1,1 +1,3 @@
-Graphql app
+Description: 
+
+Tech stack: 
