@@ -1,3 +1,1 @@
-Description: 
 
-Tech stack: 
