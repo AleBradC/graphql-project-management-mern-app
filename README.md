@@ -11,5 +11,5 @@ Management app
 
 ## Getting Started
 
-### Dependencies
+## Dependencies
 
