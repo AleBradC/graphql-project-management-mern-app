@@ -1,15 +1,14 @@
-## Project Title
+# Project Title
 
 Management MERN app
 
-## Dependencies
+# Dependencies
 
-## Status
+# Status
 
 - in progress...
 
-## Description
+# Description
 
-
-## Getting Started
+# Getting Started
 
