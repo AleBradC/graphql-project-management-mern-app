@@ -1,6 +1,13 @@
-# Project Title
+## Project Title
 
-Management app
+Management MERN app
+
+## Dependencies
+
+- node.js
+- typeORM 
+- express 
+- typeScript 
 
 ## Status
 
@@ -10,6 +17,4 @@ Management app
 
 
 ## Getting Started
-
-## Dependencies
 
