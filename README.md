@@ -18,6 +18,5 @@ Simple app where you can add a client or delete the client, then you can create 
 # Getting Started
 
 - clone the project
-- npm run dev - to start the server
-- cd client
-- npm run start - to start the client
+- npm i -> in client & server file
+- npm run dev -> to run the server and client
