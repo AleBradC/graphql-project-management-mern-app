@@ -1,8 +1,6 @@
-# Project Title
+## Management MERN app
 
-Management MERN app
-
-# Dependencies
+## Dependencies
 
 - GraphQL
 - Express.js
@@ -11,20 +9,23 @@ Management MERN app
 - React
 - Apollo Client
 
-# Description
+## Description
 
 Simple app where you can add a client or delete the client, then you can create a project, view, update or delete.
 
-# Getting Started
+## Getting Started
 
 1. Clone the project
-2. In the client & server directory run npm install
-3. For setting up the database you need to add .env file into the root project directory, and add:
-   NODE_ENV = 'development'
-   PORT = 8000
-   MONGO_URI = '' -> create a mongodb collection and add the uri here - https://www.mongodb.com/docs/guides/atlas/cluster/
-4. To run to project:
+2. Install the required dependencies by running `npm install` in the server and client directory
+3. To set up the database, create an `.env` file in the root project directory and add the following:
 
-- npm run dev - to start the server
-- cd client
-- npm run start - to start the client
+   ```env
+   NODE_ENV = 'development'
+   PORT=8000
+   MONGO_URI=<your_MongoDB_URI_here>
+   ```
+
+   For mongo_URI: https://www.mongodb.com/docs/guides/atlas/cluster/
+
+4. To run the server `npm run dev`
+5. To run the client `npm run start`
