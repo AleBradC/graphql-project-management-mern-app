@@ -17,6 +17,14 @@ Simple app where you can add a client or delete the client, then you can create 
 
 # Getting Started
 
-- clone the project
-- npm i -> in client & server file
-- npm run dev -> to run the server and client
+1. Clone the project
+2. In the client & server directory run npm install
+3. For setting up the database you need to add .env file into the root project directory, and add:
+   NODE_ENV = 'development'
+   PORT = 8000
+   MONGO_URI = '' -> create a mongodb collection and add the uri here - https://www.mongodb.com/docs/guides/atlas/cluster/
+4. To run to project:
+
+- npm run dev - to start the server
+- cd client
+- npm run start - to start the client
