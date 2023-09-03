@@ -1,4 +1,4 @@
-## Management MERN app
+# Management MERN app
 
 ## Dependencies
 
